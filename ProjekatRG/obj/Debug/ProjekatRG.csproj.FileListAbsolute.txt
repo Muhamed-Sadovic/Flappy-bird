@@ -1,0 +1,11 @@
+C:\Users\MUKI\source\repos\racunarskaGrafika\ProjekatRG\bin\Debug\ProjekatRG.exe.config
+C:\Users\MUKI\source\repos\racunarskaGrafika\ProjekatRG\bin\Debug\ProjekatRG.exe
+C:\Users\MUKI\source\repos\racunarskaGrafika\ProjekatRG\bin\Debug\ProjekatRG.pdb
+C:\Users\MUKI\source\repos\racunarskaGrafika\ProjekatRG\obj\Debug\ProjekatRG.csproj.AssemblyReference.cache
+C:\Users\MUKI\source\repos\racunarskaGrafika\ProjekatRG\obj\Debug\ProjekatRG.csproj.SuggestedBindingRedirects.cache
+C:\Users\MUKI\source\repos\racunarskaGrafika\ProjekatRG\obj\Debug\ProjekatRG.Form1.resources
+C:\Users\MUKI\source\repos\racunarskaGrafika\ProjekatRG\obj\Debug\ProjekatRG.Properties.Resources.resources
+C:\Users\MUKI\source\repos\racunarskaGrafika\ProjekatRG\obj\Debug\ProjekatRG.csproj.GenerateResource.cache
+C:\Users\MUKI\source\repos\racunarskaGrafika\ProjekatRG\obj\Debug\ProjekatRG.csproj.CoreCompileInputs.cache
+C:\Users\MUKI\source\repos\racunarskaGrafika\ProjekatRG\obj\Debug\ProjekatRG.exe
+C:\Users\MUKI\source\repos\racunarskaGrafika\ProjekatRG\obj\Debug\ProjekatRG.pdb
